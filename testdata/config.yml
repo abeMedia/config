@@ -1,0 +1,4 @@
+foo: test
+bar:
+  greeting: Hello
+  planet: World

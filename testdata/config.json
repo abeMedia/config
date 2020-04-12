@@ -1,0 +1,7 @@
+{
+	"Foo": "test",
+	"Bar": {
+		"Greeting": "Hello",
+		"Planet": "World"
+	}
+}
